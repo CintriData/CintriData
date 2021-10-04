@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @CintriData. My real name is Marion. I have a M.S. in Information Systems and am always on the lookout for learning more. This GitHub profile is likely
-      Posted on my resume and/or other social media like my LinkedIn profile. I have other non-tech interests, so you should talk to me if you also like:
-      Gardening, especially hydroponics, chicken hobbying, rocks, art, and baking!
-- 👀 I’m interested in learning/honing my skills in Python and SQL. I'd also like to start some simple projects to strengthen my portfolio.
-- 🌱 I’m currently learning Python, and gaining better knowledge in general IT concepts! Although I hold a degree in Information Systems, I think learning and keeping updated is important.
-- 💞️ I’m looking to collaborate on anything simple right now.
+- 👋 Hi, I’m @CintriData. My real name is Marion. I have an M.S. in Information Systems.
+-  I have other non-tech interests, so you should talk to me if you also like:
+      Gardening, bird watching, keeping, rocks, art, and baking!
+      
+      
+- 👀 I’m honing my Python and SQL skills on this profile. Right now I am working on a project called Chickidex. Chickidex is like that of a Pokedex from Pokemon, except with chickens. 
+      The goal is to create a program for quick bird identification for further independent poultry research. 
+
 - 📫 How to reach me: 
   email: mlandreth2@gmail.com
   Google Voice(I don't use my personal cell on here, please no spam): 214 702 1864
